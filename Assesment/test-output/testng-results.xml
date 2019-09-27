@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="118611" started-at="2019-09-27T09:50:00Z" finished-at="2019-09-27T09:51:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="118611" started-at="2019-09-27T09:50:00Z" finished-at="2019-09-27T09:51:59Z">
+      <class name="org.trident.leaftaps.pages.testcases.TC_1">
+        <test-method status="PASS" signature="setData()[pri:0, instance:org.trident.leaftaps.pages.testcases.TC_1@464bee09]" name="setData" is-config="true" duration-ms="27" started-at="2019-09-27T09:50:00Z" finished-at="2019-09-27T09:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="LaunchUrl()[pri:0, instance:org.trident.leaftaps.pages.testcases.TC_1@464bee09]" name="LaunchUrl" is-config="true" duration-ms="23140" started-at="2019-09-27T09:50:01Z" finished-at="2019-09-27T09:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchUrl -->
+        <test-method status="PASS" signature="RunTestcases(java.lang.String, java.lang.String)[pri:0, instance:org.trident.leaftaps.pages.testcases.TC_1@464bee09]" name="RunTestcases" duration-ms="38136" started-at="2019-09-27T09:50:24Z" data-provider="fetchData" finished-at="2019-09-27T09:51:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abel Tuter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunTestcases -->
+        <test-method status="PASS" signature="LaunchUrl()[pri:0, instance:org.trident.leaftaps.pages.testcases.TC_1@464bee09]" name="LaunchUrl" is-config="true" duration-ms="18969" started-at="2019-09-27T09:51:03Z" finished-at="2019-09-27T09:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchUrl -->
+        <test-method status="PASS" signature="RunTestcases(java.lang.String, java.lang.String)[pri:0, instance:org.trident.leaftaps.pages.testcases.TC_1@464bee09]" name="RunTestcases" duration-ms="37340" started-at="2019-09-27T09:51:22Z" data-provider="fetchData" finished-at="2019-09-27T09:51:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abraham Lincoln]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test 2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunTestcases -->
+      </class> <!-- org.trident.leaftaps.pages.testcases.TC_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
