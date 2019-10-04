@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92880" started-at="2019-10-04T08:47:40Z" finished-at="2019-10-04T08:49:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92880" started-at="2019-10-04T08:47:40Z" finished-at="2019-10-04T08:49:12Z">
+      <class name="jazeera.OneTrip_TC">
+        <test-method status="PASS" signature="AccessToCommon()[pri:0, instance:jazeera.OneTrip_TC@146ba0ac]" name="AccessToCommon" is-config="true" duration-ms="42595" started-at="2019-10-04T08:47:40Z" finished-at="2019-10-04T08:48:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccessToCommon -->
+        <test-method status="PASS" signature="Select()[pri:0, instance:jazeera.OneTrip_TC@146ba0ac]" name="Select" duration-ms="50235" started-at="2019-10-04T08:48:22Z" finished-at="2019-10-04T08:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select -->
+      </class> <!-- jazeera.OneTrip_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
